@@ -1,22 +1,17 @@
 body {
     background-color: #515157;
     color: #e6f1f3;
+    font-size: 30px;
     font-family: Arial, sans-serif;    
   }
   
-  h1 {
-    font-size: 60px;
-    text-align: center;
-  }
-  
-  p {
-    font-size: 18px;
-    line-height: 1.5;
-    margin-bottom: 3px;
-    margin-top: 0px;
-  }
+ 
+
   #chan {
     display: block;
     margin: 0 auto;
   }
   
+  a {
+    color: rgb(219, 211, 240);
+  }
