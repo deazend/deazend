@@ -1,0 +1,25 @@
+/* Coolors Exported Palette - https://coolors.co/dedede-58606b-f5f6fb-2d3035-a8b8c2 */
+/* CSS HEX */
+:root {
+  --platinum: #dededeff;
+  --paynes-gray: #58606bff;
+  --ghost-white: #f5f6fbff;
+  --jet: #2d3035ff;
+  --cadet-gray: #a8b8c2ff;
+}
+
+/* CSS HSL */
+:root {
+  --platinum: hsla(0, 0%, 87%, 1);
+  --paynes-gray: hsla(215, 10%, 38%, 1);
+  --ghost-white: hsla(230, 43%, 97%, 1);
+  --jet: hsla(218, 8%, 19%, 1);
+  --cadet-gray: hsla(203, 18%, 71%, 1);
+}
+
+/* SCSS HEX */
+/* SCSS HSL */
+/* SCSS RGB */
+/* SCSS Gradient */
+
+/*# sourceMappingURL=style.css.map */
